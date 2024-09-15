@@ -1,0 +1,10 @@
+font-family: Heebo;
+
+font-weight: 700;
+
+font-weight: 300;
+
+
+font-family: Yantramanav;
+font-weight: 700;
+
